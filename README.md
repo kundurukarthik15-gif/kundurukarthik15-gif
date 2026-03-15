@@ -32,7 +32,7 @@
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
 ```javascript
-const akhilesh = {
+const Karthik = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
 
