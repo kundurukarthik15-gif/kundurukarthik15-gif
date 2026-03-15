@@ -48,7 +48,7 @@ const karthik = {
     }
   }
 };
-<br>
+
 💻 Tech Stack
 <div align="center">
 
