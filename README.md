@@ -20,37 +20,7 @@
 
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-```javascript
-const karthik = {
-  pronouns: "He/Him",
-  location: "India 🇮🇳",
-  education: "Computer Science Engineering Student",
 
-  programming: ["Python", "JavaScript"],
-  web: ["HTML", "CSS", "JavaScript"],
-  data: ["Power BI", "Excel", "Data Visualization"],
-  tools: ["Git", "GitHub", "VS Code"],
-
-  interests: [
-    "Web Development",
-    "AI Projects",
-    "Data Analytics",
-    "Problem Solving",
-    "Data Structures & Algorithms"
-  ],
-
-  currentFocus: "Building AI and Data Driven Applications",
-
-  lifeLoop() {
-    while(alive){
-      learn();
-      code();
-      buildProjects();
-      repeat();
-    }
-  }
-};
-```
 
 ## 💻 Tech Stack
 
