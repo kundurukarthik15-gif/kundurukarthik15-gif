@@ -49,8 +49,6 @@ const karthik = {
   }
 };
 
-💻 Tech Stack
-<div align="center">
 
 
 
@@ -70,36 +68,3 @@ const karthik = {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-📊 GitHub Stats
-<div align="center">
-
-</div>
-🏆 GitHub Trophies
-<div align="center">
-
-</div>
-🔝 Top Contributed Repositories
-<div align="center">
-
-</div>
-<div align="center">
-
-</div> ```
