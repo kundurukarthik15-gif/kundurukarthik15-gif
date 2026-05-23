@@ -115,15 +115,19 @@ const Karthik = {
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kundurukarthik15-gif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  
- 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundurukarthik15-gif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" />
-  
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=kundurukarthik15-gif&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00F7F7&line=7B42F6&point=FFFFFF&area=true&area_color=00F7F7" />
-</div>
 
+<img height="180em"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kundurukarthik15-gif&theme=tokyonight" />
+
+<br><br>
+
+<img height="170em"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kundurukarthik15-gif&theme=tokyonight" />
+
+<img height="170em"
+src="https://github-readme-streak-stats.herokuapp.com/?user=kundurukarthik15-gif&theme=tokyonight&hide_border=true" />
+
+</div>
 
 
 <!-- Animated Divider -->
