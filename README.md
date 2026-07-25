@@ -1,11 +1,13 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Karthik&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<!-- Animated Name Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Karthik%20Kunduru&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38" />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&width=700&height=100&lines=Computer+Science+Engineering;Python+Developer;Web+Developer;Power+BI+Data+Analyst;Open+Source+Learner" alt="Typing SVG" />
-<br>
+
+<!-- Dynamic Typing SVG -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F7F7&center=true&vCenter=true&width=750&height=70&lines=Computer+Science+Engineering+Student;Python+%26+Full-Stack+Developer;Power+BI+Data+Analyst;Open+Source+Learner" alt="Typing SVG" />
+
+<br/>
 
 <!-- Social Links with Glowing Effect -->
 <p align="center">
@@ -111,32 +113,59 @@ const Karthik = {
 
 </div>
 
-<!-- Animated Divider -->
-<h2 align="center">📊 GitHub Statistics</h2>
+
+<!-- ========================= GitHub Analytics ========================= -->
+<h2 align="center">📊 GitHub Analytics & Performance</h2>
 
 <div align="center">
 
-<img height="180em"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kundurukarthik15-gif&theme=tokyonight" />
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=kundurukarthik15-gif&theme=dark&hide_border=true"
+    width="95%"
+    alt="GitHub Streak Stats"
+  />
+</p>
 
-<br><br>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kundurukarthik15-gif&theme=2077"
+    width="48%"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kundurukarthik15-gif&theme=2077"
+    width="48%"
+    alt="Top Languages"
+  />
+</p>
 
-<img height="170em"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kundurukarthik15-gif&theme=tokyonight" />
-
-<img height="170em"
-src="https://github-readme-streak-stats.herokuapp.com/?user=kundurukarthik15-gif&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kundurukarthik15-gif&theme=react-dark&hide_border=true&area=true"
+    width="95%"
+    alt="Activity Summary"
+  />
+</p>
 
 </div>
-
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akhilesh112606/akhilesh112606/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akhilesh112606/akhilesh112606/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/akhilesh112606/akhilesh112606/output/github-snake.svg" />
-  </picture>
+
+<!-- ========================= Contribution Snake ========================= -->
+
+
+<!-- Animated Footer Waving Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B42F6,100:00F7F7&height=120&section=footer&text=✨%20Thanks%20for%20Visiting!%20✨&fontSize=26&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+
+<br/>
+
+<p align="center">
+  ⭐ <b>Feel free to star my repositories if you find them helpful!</b> ⭐
+  <br/>
+  <sub>Crafted with ❤️ by <b>Karthik Kunduru</b></sub>
+</p>
+
 </div>
